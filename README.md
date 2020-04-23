@@ -21,6 +21,7 @@ line
 line
 
 #### Link:
-[markdownguide](https://www.markdownguide.org/cheat-sheet/)
+[markdownguide](https://www.markdownguide.org/cheat-sheet/){:target="_blank"}
+
 
 
