@@ -1,4 +1,4 @@
-# hello-world
+# hello-world - Markdown samples
 My first repository
 
 Hi everybody!
