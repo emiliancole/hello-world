@@ -1,9 +1,9 @@
-# hello-world 
-## Markdown samples
+# hello-world (h1)
+## Markdown samples (h2)
 
-### Hi everybody!
+### Hi everybody! (h3)
 
-#### Unnubered list:
+#### Unnubered list: (h4)
 
 - Hasta luego!
 - A presto!
@@ -15,6 +15,10 @@
 1. one
 2. two
 3. three
+
+**Bold text**
+*italicized text*
+
 
 > paragraph
 line
