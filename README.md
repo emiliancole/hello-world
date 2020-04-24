@@ -1,5 +1,5 @@
-# hello-world - Markdown samples
-## My first repository
+# hello-world 
+## Markdown samples
 
 ### Hi everybody!
 
