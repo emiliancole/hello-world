@@ -28,7 +28,7 @@
 
 `echo "Hello World!"`
 
-#### utf-8 characters:  (\&#8364;)->&#8364; (\&#x20AC;)->&#x20AC; (\&euro;)->&euro;
+#### utf-8 characters:  (\&#8364;)->&#8364;; (\&#x20AC;)->&#x20AC;; (\&euro;)->&euro;;
 
 #### Link: [markdownguide](https://www.markdownguide.org/cheat-sheet/) (right-click to open in a new tab)
 
