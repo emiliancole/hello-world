@@ -26,9 +26,8 @@
 > 
 > line
 
-#### code: 
-`echo "Hello World!"`
-&#96;print("this is with unicode");&#96;
+#### code: `echo "Hello World!"`
+&#96;print("this is with unicode");&#96; (not working!)
 
 #### utf-8 characters:  (\&#8364;)->&#8364;; (\&#x20AC;)->&#x20AC;; (\&euro;)->&euro;;
 
