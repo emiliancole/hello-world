@@ -28,8 +28,9 @@
 
 `echo "Hello World!"`
 
-#### Link:
-[markdownguide](https://www.markdownguide.org/cheat-sheet/) (right-click to open in a new tab)
+#### utf-8 characters: &#8364; &#x20AC; &euro;
+
+#### Link: [markdownguide](https://www.markdownguide.org/cheat-sheet/) (right-click to open in a new tab)
 
 
 
