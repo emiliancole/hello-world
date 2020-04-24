@@ -21,7 +21,7 @@
 *italicized text*
 
 > blockquote
-> 
+> sameline
 > line
 > 
 > line
