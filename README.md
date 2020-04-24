@@ -37,7 +37,7 @@
 #### Link: [markdownguide](https://www.markdownguide.org/cheat-sheet/) (right-click to open in a new tab)
 
 #### Image:	![missing image text](https://avatars3.githubusercontent.com/u/22531108?s=40&v=4)
-
+(![alt text](image.jpg))
 
 
 
